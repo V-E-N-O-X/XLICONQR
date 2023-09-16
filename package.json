@@ -1,0 +1,18 @@
+{
+  "name": "en-qr",
+  "version": "1.0.0",
+  "description": "a en qr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Slasher",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileys@^6.0.9",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
